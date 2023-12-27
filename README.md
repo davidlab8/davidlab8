@@ -6,8 +6,8 @@ Information Technology Projects:</h2>
   - [osTicket: Installation Configuration](https://github.com/davidlab8/post-install-config-)
   - - [osTicket: Ticket Lifecycle Examples](https://github.com/davidlab8/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/davidlab8/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/davidlab8/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/davidlab8/Active-directory-)
+  - - [Network Security Groups (NSGs) and Inspecting Network Protocols
 
 <h2>Connect with me:</h2>
 
