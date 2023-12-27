@@ -4,8 +4,8 @@ Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation Configuration](https://github.com/davidlab8/post-install-config-)
-  - - [osTicket: Ticket Lifecycle Examples](https://github.com/davidlab8/Ticket-lifecycle-example/edit/main/README.md)- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/davidlab8/Active-directory-)
+  - - [osTicket: Ticket Lifecycle Examples](https://github.com/davidlab8/Ticket-lifecycle-example/blob/main/README.md)
+    - - [Configuring Active Directory within Azure VMs](https://github.com/davidlab8/Active-directory-)
   - - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/davidlab8/Network-Security-Groups/blob/main/README.md)<h2>Connect with me:</h2>
 
 
