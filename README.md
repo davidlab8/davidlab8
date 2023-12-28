@@ -15,3 +15,6 @@ Resume(https://github.com/davidlab8/Resume-)
 
 [instagram]: https://www.instagram.com/David
 [linkedin]: https://linkedin.com/in/David
+
+
+www.linkedin.com/in/david-ledesma-7428902a2
