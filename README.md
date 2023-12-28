@@ -15,4 +15,4 @@ Resume(https://github.com/davidlab8/Resume-)
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: [](https://www.linkedin.com/in/david-ledesma-7428902a2/)https://www.linkedin.com/in/david-ledesma-7428902a2/
+[linkedin]: https://www.linkedin.com/in/david-ledesma
