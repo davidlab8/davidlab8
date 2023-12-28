@@ -13,5 +13,3 @@ Resume(https://github.com/davidlab8/Resume-)
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/David
-www.linkedin.com/in/david-ledesma-7428902a2
