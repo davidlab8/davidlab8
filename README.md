@@ -1,7 +1,7 @@
 <h1>Hi, I'm David, an <a href="https://linkedin.com/in/JOSH">IT Graduate
 
 Information Technology Projects:</h2>
-Resume(https://github.com/davidlab8/Resume-)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation Configuration](https://github.com/davidlab8/post-install-config-)
   - - [osTicket: Ticket Lifecycle Examples](https://github.com/davidlab8/Ticket-lifecycle-example/blob/main/README.md)
